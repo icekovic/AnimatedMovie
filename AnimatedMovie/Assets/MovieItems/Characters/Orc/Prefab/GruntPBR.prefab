@@ -422,7 +422,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 558555902672144438}
-  - component: {fileID: 558555902663092188}
+  - component: {fileID: 5931187435111207982}
   m_Layer: 0
   m_Name: GruntPBR
   m_TagString: Untagged
@@ -446,7 +446,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &558555902663092188
+--- !u!95 &5931187435111207982
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 0
@@ -457,9 +457,9 @@ Animator:
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 406486edf02d8d74da3b2ca225e21254, type: 3}
   m_Controller: {fileID: 9100000, guid: e58bf4525b7cc80459d6f7ff033ea067, type: 2}
-  m_CullingMode: 1
+  m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 1
+  m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
